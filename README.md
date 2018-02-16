@@ -1,1 +1,1 @@
-Implemented K-means algorithm using MATLAB and also usiing python.
+Implemented K-means algorithm using MATLAB and also using python.
