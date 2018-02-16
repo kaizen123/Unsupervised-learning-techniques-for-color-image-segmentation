@@ -1,2 +1,3 @@
-Implemented K-means algorithm using MATLAB and also using python. ( Soumi ghosh , Sanjay Kumar Dubey, Department of Computer Science, Amity University, “Comparative analysis of K-means and fuzzy k-means algorithms”.)
+Implemented K-means algorithm using MATLAB for color image segmentation and for data set using MATLAB as well as python.
+
 
